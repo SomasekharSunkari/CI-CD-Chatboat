@@ -24,12 +24,10 @@
 ![alt text](cbot-11.png)
 # End to End CI-CD Pipeline  for Automating Deploymeny into AWS EKS Cluster
 
+![alt text](cbot-12.png)
 ![alt text](cbot-20.png)
-
-# Eks Cluster in AWS
-![alt text](cluster.png)
-
 ![alt text](cbot-21.png)
+![alt text](cluster.png)
 ![alt text](cbot-8.png)
 
 
