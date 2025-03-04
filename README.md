@@ -25,9 +25,12 @@
 # End to End CI-CD Pipeline  for Automating Deploymeny into AWS EKS Cluster
 
 ![alt text](cbot-12.png)
-![alt text](cbot-20.png)
 ![alt text](cbot-21.png)
+
+# Eks Cluster In Aws Cloud
 ![alt text](cluster.png)
+
+# Finally Accesing the Deployed APpliation through the ALB in AWS
 ![alt text](cbot-8.png)
 
 
